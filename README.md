@@ -14,7 +14,7 @@ Aadu Puli Aattam is a traditional South Indian strategy game played between two 
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/ganesh926/FYP.git>
    cd <repository-directory>
    ```
 
